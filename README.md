@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Iluma.
-- 👀 I’m interested in Mobile Development.
-- 🌱 I’m currently learning Laravel and Node JS.
+- 👀 I’m interested in Mobile Development using Flutter.
+- 🌱 I’m currently learning Laravel and Node JS for Baas implementation.
 - 💞️ I’m looking to collaborate with anyone on a Project.
 - 📫 Email me on joshuailuma@gmail.com.
 
