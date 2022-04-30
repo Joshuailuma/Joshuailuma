@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Iluma.
 - 👀 I develop Mobile Apps for Android and iOS using Flutter.
-- 💞️ I’m looking to collaborate with anyone on an App Project.
+- 💞️ I’m looking to collaborate with anyone on any App Project.
 - 📫 Email me on joshuailuma@gmail.com.
 
 <!---
