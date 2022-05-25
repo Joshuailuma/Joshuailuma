@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Iluma.
-- 👀 I develop Mobile Apps for Android and iOS using Flutter, Firebase, Node and MongoDb.
+- 👀 I develop Mobile Apps for Android and iOS using Flutter, Firebase, Node JS and MongoDb.
 - 💞️ I’m looking to collaborate with anyone on any App Project.
 - 📫 Email me on joshuailuma@gmail.com.
 
