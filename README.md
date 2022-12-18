@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Iluma.
 - 👀 I develop Web3 apps for web and Mobile.
-- 💞️ I’m looking to collaborate with anyone on any App Project.
+- 💞️ I’m looking to collaborate with anyone on any Web3 Project.
 - 📫 Email me on joshuailuma@gmail.com.
 
 <!---
