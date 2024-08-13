@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Iluma.
-- 👀 I develop Web3 apps for web and Mobile.
+- 👀 I develop Backend applications and a Kotlin enthusiast🥳
 - 💞️ I’m looking to collaborate with anyone on any Software Project.
 - 📫 Email me on joshuailuma@gmail.com.
 
