@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Iluma.
-- 👀 I develop Backend applications and a Kotlin enthusiast🥳
+- 👀 I develop Backend applications using Java and a Kotlin enthusiast🥳
 - 😎 I have a knowledge of other languages (Javascript, Dart, Python, Solidity & Rust)
 - 💞️ I’m looking to collaborate with anyone on any Software Project.
 - 📫 Email me on joshuailuma@gmail.com.
