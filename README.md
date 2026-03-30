@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua Iluma.
+👋 Hi, I’m Joshua Iluma.
 
 <!---
 Joshuailuma/Joshuailuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
